@@ -1,5 +1,5 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2017.
-* 功能函数包括
+基于cs231n spring 2017[on the course webpage](http://cs231n.github.io/).
+* 
 * [KNN分类器](https://github.com/WoShiDongZhiWu/cs231n/blob/master/knn.ipynb) 
 * [softmax函数](https://github.com/WoShiDongZhiWu/cs231n/blob/master/softmax.ipynb) 
 * [SVM函数](https://github.com/WoShiDongZhiWu/cs231n/blob/master/svm.ipynb) 
