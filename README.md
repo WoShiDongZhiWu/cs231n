@@ -5,4 +5,6 @@
 * [SVM函数](https://github.com/WoShiDongZhiWu/cs231n/blob/master/svm.ipynb) 
 * [基于numpy的双层全连接网络](https://github.com/WoShiDongZhiWu/cs231n/blob/master/two_layer_net.ipynb) 
 * [基于tensorflow的GAN-CGAN](https://github.com/WoShiDongZhiWu/cs231n/blob/master/GANs-TensorFlow.ipynb) 
+* [基于tensorflow和cifar10的猫狗分类实现](https://github.com/WoShiDongZhiWu/cs231n/blob/master/dogVScat-cifar10.ipynb) 
+
 
